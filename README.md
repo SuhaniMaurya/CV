@@ -21,8 +21,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/hardik0903/CV_proj.git
-   cd CV_proj
+   git clone https://github.com/SuhaniMaurya/CV.git
+   cd CV
    ```
 
 2. **Install Dependencies**
